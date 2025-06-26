@@ -1,6 +1,6 @@
 # Docker VSCode Chrome
 
-Docker container yang berisi VSCode dan Chrome untuk development environment.
+Docker container yang berisi VSCode dan Chrome untuk development environment.ss
 
 ![Demo](Demo.jpeg)
 
